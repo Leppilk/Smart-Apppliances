@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/hpSpQ2bJw=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PlateUp\\Mods\\SmartAppliances2.1\\SmartAppliances2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\yariazen.plateup.modbuildutilities\\1.13.0\\yariazen.plateup.modbuildutilities.1.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
