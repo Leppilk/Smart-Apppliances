@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf3d822c-d1de-48b1-8630-3d616fd479a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Customs/Appliances/SmartMicrowave.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Customs/Appliances/SmartMicrowave.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customs/Dishes/LobsterDish.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customs/ItemGroups/PlatedLobster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customs/ItemGroups/RawPottedLobster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customs/Items/CookedLobster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customs/Items/CookedPottedLobster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customs/Items/RawLobster.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MonoBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output-Build.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartAppliances2.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartAppliances2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartAppliances2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Animations/LockerDoor.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Animations/LockerDoor.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Animations/TakeFromLocker.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Animations/TakeFromLocker.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Audio/Fridge_mixdown.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Audio/Fridge_mixdown.ogg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/AssetBundler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/AssetBundler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyAtZero_Creator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyAtZero_Creator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyChildAtGlobalZero_Creator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyChildAtGlobalZero_Creator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyChildAtLocalZero_Creator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyChildAtLocalZero_Creator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyCreator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Editor/EmptyCreator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/AppleRed.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/AppleRed.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Balloon - Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Balloon - Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Burned - Light.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Burned - Light.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Burned.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Burned.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Door Glass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Door Glass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Ice.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Ice.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Knob.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Knob.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal Dark.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal Dark.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal Very Dark.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal Very Dark.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal- Shiny.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal- Shiny.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Metal.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Piano Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Piano Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Plate - Ring.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Plate - Ring.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Plate.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Plate.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Water.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Water.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Wood - Default.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Wood - Default.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Wood 4 - Painted.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Materials/Wood 4 - Painted.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Counter.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Counter.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Ice.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Ice.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Locker.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Locker.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/LockerDoor.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/LockerDoor.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Plate.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Plate.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Pot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/Pot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/lobster.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Models/lobster.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Cooked Lobster.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Cooked Lobster.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Cooked Potted Lobster.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Cooked Potted Lobster.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Lobster Dish Icon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Lobster Dish Icon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Lobster Provider.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Lobster Provider.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Plated Lobster.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Plated Lobster.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Raw Lobster.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Raw Lobster.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Raw Potted Lobster.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Raw Potted Lobster.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets/Counter.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets/Counter.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets/Plate.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets/Plate.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets/Pot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Assets/Prefabs/Vanilla Assets/Pot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/URPProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityProject - SmartAppliances2/content/mod.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net472/SmartAppliances2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net472/SmartAppliances2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartApp.512D6C82.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ARM64/Release/net472/SmartAppliances2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartApp.512D6C82.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net472/SmartAppliances2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartApp.512D6C82.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net472/SmartAppliances2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SmartAppliances2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SmartAppliances2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SmartAppliances2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartApp.512D6C82.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Debug/net472/SmartAppliances2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartApp.512D6C82.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/x64/Release/net472/SmartAppliances2.pdb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2mjzSdEpsFvlv3nh3Cg6KSogBUV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Pilch\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Pilch\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\Pilch\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3d822c-d1de-48b1-8630-3d616fd479a0" name="Changes" comment="" />
+      <created>1727604775677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727604775677</updated>
+      <workItem from="1727604777161" duration="1863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
