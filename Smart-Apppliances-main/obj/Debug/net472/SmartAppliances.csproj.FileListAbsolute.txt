@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\bin\Debug\net472\SmartAppliances.dll
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\bin\Debug\net472\SmartAppliances.pdb
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.dll
+C:\Program Files (x86)\Steam\steamapps\common\PlateUp\Mods\Smart-Apppliances-main\obj\Debug\net472\SmartAppliances.pdb

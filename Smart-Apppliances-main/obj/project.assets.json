@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Yariazen.PlateUp.ModBuildUtilities/1.11.5": {
+        "type": "package",
+        "build": {
+          "build/Yariazen.PlateUp.ModBuildUtilities.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yariazen.PlateUp.ModBuildUtilities/1.11.5": {
+      "sha512": "ynf6JYbx1TMqWj6mSxPx+O6T4y9wDQ2yfnaPmeAgybRWI722VN/x+eAk0EwBHSC3U55fx8/EGPgIeh6rs9CT0Q==",
+      "type": "package",
+      "path": "yariazen.plateup.modbuildutilities/1.11.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Yariazen.PlateUp.ModBuildUtilities.dll",
+        "build/Yariazen.PlateUp.ModBuildUtilities.targets",
+        "yariazen.plateup.modbuildutilities.1.11.5.nupkg.sha512",
+        "yariazen.plateup.modbuildutilities.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Yariazen.PlateUp.ModBuildUtilities >= 1.11.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pedro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PlateUp\\Mods\\Smart-Apppliances-main\\SmartAppliances.csproj",
+      "projectName": "SmartAppliances",
+      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PlateUp\\Mods\\Smart-Apppliances-main\\SmartAppliances.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PlateUp\\Mods\\Smart-Apppliances-main\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "Yariazen.PlateUp.ModBuildUtilities": {
+            "target": "Package",
+            "version": "[1.11.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
